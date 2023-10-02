@@ -9,8 +9,9 @@ public void test()
 	System.out.println("Not yet implemneted");
 }
 @Test
-public void test2()
+public void test1()
 {
-	System.out.println("A new test method test2 added");
+	System.out.println("A new method added");
+
 }
 }
